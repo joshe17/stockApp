@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9148697B-2770-4850-8F06-B5728531CDA9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8E4D1AB-5088-402A-8C3C-8346C79245C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StockAppTests/StockViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "fetchStocks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8E4D1AB-5088-402A-8C3C-8346C79245C4 - 8375742f2054e34a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "E8E4D1AB-5088-402A-8C3C-8346C79245C4 - 8375742f2054e34a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "E8E4D1AB-5088-402A-8C3C-8346C79245C4 - 8375742f2054e34a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "896C12AF-AEBA-48BD-9F32-765DFC6C625E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StockAppTests/StockViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchStocks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "896C12AF-AEBA-48BD-9F32-765DFC6C625E - 8375742f2054e4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "896C12AF-AEBA-48BD-9F32-765DFC6C625E - 8375742f2054e4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "896C12AF-AEBA-48BD-9F32-765DFC6C625E - 8375742f2054e4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "896C12AF-AEBA-48BD-9F32-765DFC6C625E - 8375742f2054e4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StockAppTests.MockStockService.fetchStocks() async throws -&gt; StockApp.StockResponse"
+                  moduleName = "StockAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuaho/Desktop/quintrixProjects/StockApp/StockAppTests/StockViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
